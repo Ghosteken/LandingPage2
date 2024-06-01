@@ -9,8 +9,8 @@ const inter = Inter({ subsets: ["latin"] });
 const aBeeZee = ABeeZee({ weight: "400", subsets: ["latin"], style: "italic" });
 
 export const metadata: Metadata = {
-  title: "zwilt - oolaoluwatobi",
-  description: "Punch assessment created by ọlá",
+  title: "zwilt - aigberuanicholas",
+  description: "Punch assessment",
 };
 
 export default function RootLayout({
