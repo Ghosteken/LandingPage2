@@ -13,7 +13,7 @@ const FindingRightFit = () => {
       <h1 className=" text-3xl lg:text-4xl xl:text-[54px] font-bold drop-shadow-md xl:leading-[64px] text-center">
         Finding the right fit{" "}
         <Image
-          className="inline my-auto size-16 aspect-square  "
+          className="inline my-auto size-16 aspect-square"
           src={person}
           alt="Person"
         />

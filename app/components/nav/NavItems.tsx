@@ -40,11 +40,10 @@ const NavItems = ({ sideNav }: NavItemsProps) => {
 
   return (
     <div
-      className={` ${
-        sideNav
+      className={` ${sideNav
           ? "flex flex-col text-white space-y-5"
           : "hidden lg:flex space-x-8"
-      }    my-auto transition-all`}
+        }    my-auto transition-all`}
     >
       {renderNavItems}
     </div>

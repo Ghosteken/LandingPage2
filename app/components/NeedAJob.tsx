@@ -11,11 +11,6 @@ const NeedAJob = () => {
     <div className="w-full bg-[#0C0C0C] px10 py20 ">
       <div
         className="-mt-10  aspect-[1300/481] bg-[#525AA0 "
-        // style={{
-        //   backgroundImage: `url(/job_bg.png)`,
-        //   backgroundSize: "cover",
-        //   backgroundPosition: "center",
-        // }}
       >
         <div className="w-full  bg-[#0C0C0C] h-full pt-0 p-8 ">
           <div className="bg-[#525AA0] w-full flex flex-col pb-20 h-full">

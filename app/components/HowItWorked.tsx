@@ -1,9 +1,7 @@
 import Image from "next/image";
 import React from "react";
-
 import person from "@/public/peron_2.svg";
 import logo from "@/public/groovehq.svg";
-
 import Vector from "@/public/Vector.svg";
 import vectorLeft from "@/public/vector_left.svg";
 import logo_2 from "@/public/groove_logo.svg";

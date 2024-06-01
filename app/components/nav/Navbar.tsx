@@ -5,6 +5,7 @@ import NavItems from "./NavItems";
 import Link from "next/link";
 import HamburgerMenu from "./HamburgerMenu";
 
+import { Menu } from "lucide-react";
 const Navbar = () => {
   return (
     <nav className="fixed top-8 right-0 left-0 z-50 px-4 lg:px-8">

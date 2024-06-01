@@ -57,9 +57,8 @@ const CarouselCard = ({ data }: Props) => {
       return (
         <ul className="flex space-x-4" key={index}>
           <div
-            className={` ${id === 1 ? "bg-[#50589F] " : ""} ${
-              id === 2 ? "bg-[#FFBE2E] " : ""
-            } ${id === 3 ? "bg-[#C7F4C2] " : ""}  min-w-5 w-5 h-2 rounded-full  my-auto `}
+            className={` ${id === 1 ? "bg-[#50589F] " : ""} ${id === 2 ? "bg-[#FFBE2E] " : ""
+              } ${id === 3 ? "bg-[#C7F4C2] " : ""}  min-w-5 w-5 h-2 rounded-full  my-auto `}
           ></div>{" "}
           <span>{point}</span>
         </ul>
