@@ -5,8 +5,6 @@ import Image from "next/image";
 
 import Autoplay from "embla-carousel-autoplay";
 
-// import { Card, CardContent } from "@/components/ui/card"
-
 import {
   Carousel,
   CarouselApi,
@@ -41,7 +39,6 @@ const Slider = () => {
 
   return (
     <div className="p-2 sm:p-8 md:p-16 lg:p24 bg-gradient-to-b from-white from-red-40 to-[#E1E3F8]  ">
-      {/* <div className="h-[600px] w-full"></div> */}
 
       {/* slides */}
       <div className="text-xs sm:text-sm lg:text-base bg-green-40 ">

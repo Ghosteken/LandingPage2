@@ -55,7 +55,6 @@ const HowItWorked = () => {
         </div>
       </div>
 
-      {/* right */}
       <div className="lg:basis-1/2 my-auto space-y-10 ">
         <div className="space-x-5 flex">
           <Image src={logo_2} className="  w-24 aspect-aquare " alt="Vector" />

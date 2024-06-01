@@ -81,7 +81,6 @@ const YourJourney = () => {
             </div>
           </div>
         </div>
-        {/* right image */}
 
         <Image
           className=" hidden lg:block lg:ml-auto h-auto wfit"
